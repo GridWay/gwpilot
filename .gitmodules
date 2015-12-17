@@ -1,0 +1,6 @@
+[submodule "GWpilot"]
+	path = GWpilot
+	url = https://github.com/AJRubio-Montero/GWpilot
+[submodule "GWutils"]
+	path = GWutils
+	url = https://github.com/AJRubio-Montero/GWutils
